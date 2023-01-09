@@ -1,0 +1,6 @@
+-- via PyPi packages for Airflow
+requests>=1.0.1
+pandas>=1.0.1
+google-cloud-bigquery>=1.0.1
+google-cloud-storage>=1.0.1
+
